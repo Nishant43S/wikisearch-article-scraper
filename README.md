@@ -4,9 +4,9 @@
 
 <a href="https://wikisearch-article-scraper-nishant-maity.streamlit.app/">click to use app</a>
 
-<h2 style="color: orangered">Note</h2>
+<h2 style="color: orangered;">Note</h2>
 
-<p  style="color: orangered">This app may not properly work on some keywords example- [machine learning , you can write as machinelearning] or [AWS , you can write amazon web services] etc...
+<p  style="color: orangered;">This app may not properly work on some keywords example- [machine learning , you can write as machinelearning] or [AWS , you can write amazon web services] etc...
 
 </p>
 
